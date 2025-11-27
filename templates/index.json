@@ -212,8 +212,9 @@
         "item_qVeNx4": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis_4.png",
             "column_size": "3",
-            "title": "Nina C.",
+            "title": "Antho C.",
             "heading_tag": "h4",
             "content": "<p>J’aimais pas les écharpes qui traînent et qui s’emmêlent. Là tout tient en place, ça ne bouge pas même quand je marche vite ou que je cours</p>",
             "link_url": "",
@@ -237,6 +238,7 @@
         "item_qKQtjD": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis_1.png",
             "column_size": "3",
             "title": "Thomas A.",
             "heading_tag": "h4",
