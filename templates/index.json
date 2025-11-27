@@ -489,12 +489,68 @@
             "title": "Taille unique… ça va m’aller ?",
             "content": "<p>Le bonnet est <strong>taille unique adulte</strong> et s’adapte à la plupart des tours de tête (environ 55 à 61 cm). La matière est légèrement extensible et épouse bien la forme de la tête.</p>"
           }
+        },
+        "item_fnFLfe": {
+          "type": "item",
+          "settings": {
+            "title": "Convient-il aux hommes et aux femmes ?",
+            "content": "<p>Oui, c’est un modèle <strong>unisexe</strong>. Le style est neutre et les différentes couleurs permettent de s’adapter à tous les goûts.</p>"
+          }
+        },
+        "item_9MTirp": {
+          "type": "item",
+          "settings": {
+            "title": "Peut-on séparer le bonnet du cache-cou ?",
+            "content": "<p>Non. C’est un <strong>modèle monobloc</strong> : le bonnet et le cache-cou sont solidaires. C’est ce qui permet de le mettre en place en quelques secondes et qu’il reste bien en position.</p>"
+          }
+        },
+        "item_gReKt8": {
+          "type": "item",
+          "settings": {
+            "title": "Comment l’entretenir et le laver ?",
+            "content": "<p>Lavage recommandé à <strong>30°C maximum</strong>, à la main ou en machine dans un filet de lavage, cycle délicat. Éviter le sèche-linge pour préserver la forme et la douceur de la polaire.</p>"
+          }
+        },
+        "item_TTLVXE": {
+          "type": "item",
+          "settings": {
+            "title": "Et si le bonnet ne me convient pas ?",
+            "content": "<p>En cas de souci avec votre commande (défaut, article abîmé à la réception), il suffit de nous contacter par e-mail. Nous trouvons toujours une solution : remplacement, avoir ou geste commercial selon la situation.</p>"
+          }
+        },
+        "item_hwc9K7": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p>La livraison est généralement comprise entre <strong>7 et 14 jours ouvrés</strong> selon le pays en Europe. Vous recevez un e-mail avec votre <strong>numéro de suivi</strong> dès que votre commande est expédiée.</p>"
+          }
+        },
+        "item_pLeVTi": {
+          "type": "item",
+          "settings": {
+            "title": "Comment savoir où en est ma commande ?",
+            "content": "<p>Dès l’expédition, vous recevez un numéro de <strong>suivi</strong>. Vous pouvez y suivre votre colis sur notre site.</p>"
+          }
+        },
+        "item_mFzzh3": {
+          "type": "item",
+          "settings": {
+            "title": "Le paiement sur votre site est-il sécurisé ?",
+            "content": "<p>Oui, tous les paiements sont <strong>100% sécurisés</strong>. Nous utilisons des prestataires de paiement reconnus (type cartes bancaires, PayPal, etc.) avec cryptage des données.</p>"
+          }
         }
       },
       "block_order": [
         "item_8UabjU",
         "item_YkPcLL",
-        "item_HFwDLx"
+        "item_HFwDLx",
+        "item_fnFLfe",
+        "item_9MTirp",
+        "item_gReKt8",
+        "item_TTLVXE",
+        "item_hwc9K7",
+        "item_pLeVTi",
+        "item_mFzzh3"
       ],
       "name": "FAQ",
       "settings": {
