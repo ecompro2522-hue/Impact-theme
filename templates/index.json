@@ -142,32 +142,18 @@
     "rich_text_CMMzPN": {
       "type": "rich-text",
       "blocks": {
-        "subheading_U6LMck": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_YKP3ay": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
+            "text": "Avant/Après",
             "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
           }
-        },
-        "richtext_B9mb7P": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
         }
       },
       "block_order": [
-        "subheading_U6LMck",
-        "heading_YKP3ay",
-        "richtext_B9mb7P"
+        "heading_YKP3ay"
       ],
       "name": "Rich text",
       "settings": {
@@ -181,33 +167,17 @@
     },
     "video_EzD7w9": {
       "type": "video",
-      "blocks": {
-        "play_EkJEEh": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_LY7aGR": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "play_EkJEEh",
-        "heading_LY7aGR"
-      ],
       "name": "Video",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "autoplay": false,
+        "autoplay": true,
         "video_size": "auto",
+        "video": "shopify://files/videos/vidéo site.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "multi_column_pwBMH8": {
