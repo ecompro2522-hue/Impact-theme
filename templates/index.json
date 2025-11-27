@@ -186,7 +186,7 @@
         "item_xmQ3Lg": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis_6.png",
+            "image": "shopify://shop_images/avis_7.png",
             "column_size": "3",
             "title": "Sophie F.",
             "heading_tag": "h4",
@@ -199,7 +199,7 @@
         "item_Ttifpe": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis_5.png",
+            "image": "shopify://shop_images/avis_11.png",
             "column_size": "3",
             "title": "Julien G.",
             "heading_tag": "h4",
@@ -212,7 +212,7 @@
         "item_qVeNx4": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis_4.png",
+            "image": "shopify://shop_images/avis_10.png",
             "column_size": "3",
             "title": "Antho C.",
             "heading_tag": "h4",
@@ -225,7 +225,7 @@
         "item_GkFtM3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis.png",
+            "image": "shopify://shop_images/avis_9.png",
             "column_size": "3",
             "title": "Camille M.",
             "heading_tag": "h4",
@@ -238,7 +238,7 @@
         "item_qKQtjD": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis_1.png",
+            "image": "shopify://shop_images/avis_8.png",
             "column_size": "3",
             "title": "Thomas A.",
             "heading_tag": "h4",
@@ -251,6 +251,7 @@
         "item_DVJUFF": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis_12.png",
             "column_size": "3",
             "title": "Estelle O.",
             "heading_tag": "h4",
