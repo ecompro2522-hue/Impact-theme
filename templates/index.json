@@ -44,7 +44,7 @@
         "logo_4tV4kw": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/14.png",
+            "logo": "shopify://shop_images/18_970df29b-99f5-4c15-a253-75d8a253f81c.png",
             "logo_width": 120,
             "link": ""
           }
@@ -52,7 +52,7 @@
         "logo_6wbzxR": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/17_520480ea-85de-41c9-b145-f66f78924c11.png",
+            "logo": "shopify://shop_images/21.png",
             "logo_width": 120,
             "link": ""
           }
@@ -60,7 +60,7 @@
         "logo_M69cWK": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/15_22b1570a-456e-41e0-95a1-7c469a0d45c2.png",
+            "logo": "shopify://shop_images/19.png",
             "logo_width": 120,
             "link": ""
           }
@@ -68,7 +68,7 @@
         "logo_MaLtRA": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/16_4d5ce772-b712-4014-b889-7f8df57c64fd.png",
+            "logo": "shopify://shop_images/20.png",
             "logo_width": 120,
             "link": ""
           }
@@ -131,7 +131,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/7_c4166eab-6e68-4589-b351-a0923afb7842.png",
+        "image": "shopify://shop_images/7_f777066a-76de-4ee9-8283-b54cdb414e8a.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -173,7 +173,7 @@
         "allow_transparent_header": false,
         "autoplay": true,
         "video_size": "auto",
-        "video": "shopify://files/videos/vidéo site.mp4",
+        "video": "shopify://files/videos/vidéo site_da903085-904f-4ece-b352-4301f9fdc84d.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
@@ -186,22 +186,11 @@
         "item_xmQ3Lg": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis_2.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Sophie F.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_GkFtM3": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Depuis que je l’ai, j’ai enfin la tête et le cou au chaud le matin. Je gagne du temps, j’enfile juste ce bonnet et c’est réglé</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -210,10 +199,60 @@
         "item_Ttifpe": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis_5.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Julien G.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Je travaille dehors toute la journée, et ce bonnet me permet de garder la nuque et les oreilles bien protégées. Je l’utilise tous les jours maintenant</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_qVeNx4": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Nina C.",
+            "heading_tag": "h4",
+            "content": "<p>J’aimais pas les écharpes qui traînent et qui s’emmêlent. Là tout tient en place, ça ne bouge pas même quand je marche vite ou que je cours</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_GkFtM3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avis.png",
+            "column_size": "3",
+            "title": "Camille M.",
+            "heading_tag": "h4",
+            "content": "<p>Je suis très frileuse et je sens tout de suite la chaleur du tissu polaire. Même quand il y a du vent, je n’ai plus le visage glacé.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_qKQtjD": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Thomas A.",
+            "heading_tag": "h4",
+            "content": "<p>On a commencé par en acheter un pour tester, et on a fini par en prendre pour tout le monde. Les enfants adorent et surtout, ils n’ont plus froid au cou</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_DVJUFF": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Estelle O.",
+            "heading_tag": "h4",
+            "content": "<p>Je prends les transports tous les matins et j’avais toujours froid au visage. Avec ce bonnet 2-en-1, j’ai enfin la tête et le cou bien protégés, même quand il fait vraiment froid</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -222,18 +261,21 @@
       },
       "block_order": [
         "item_xmQ3Lg",
+        "item_Ttifpe",
+        "item_qVeNx4",
         "item_GkFtM3",
-        "item_Ttifpe"
+        "item_qKQtjD",
+        "item_DVJUFF"
       ],
       "name": "Multi-column",
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Ce que nos clients pensent",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
