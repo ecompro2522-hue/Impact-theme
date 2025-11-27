@@ -465,6 +465,59 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "faq_BMEfzk": {
+      "type": "faq",
+      "blocks": {
+        "item_8UabjU": {
+          "type": "item",
+          "settings": {
+            "title": "Le bonnet tient-il vraiment chaud ?",
+            "content": "<p>Oui, l’intérieur est entièrement doublé en polaire douce façon “fausse fourrure”. Il couvre la tête, les oreilles, le cou et une partie du visage, ce qui le rend idéal par temps froid, vent et gel.</p>"
+          }
+        },
+        "item_YkPcLL": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce qu’il gratte ?",
+            "content": "<p>Non. L’extérieur est en maille tricotée, mais la partie en contact avec la peau est en polaire très douce. Il est conçu pour être porté longtemps sans gêne.</p>"
+          }
+        },
+        "item_HFwDLx": {
+          "type": "item",
+          "settings": {
+            "title": "Taille unique… ça va m’aller ?",
+            "content": "<p>Le bonnet est <strong>taille unique adulte</strong> et s’adapte à la plupart des tours de tête (environ 55 à 61 cm). La matière est légèrement extensible et épouse bien la forme de la tête.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_8UabjU",
+        "item_YkPcLL",
+        "item_HFwDLx"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -476,6 +529,7 @@
     "video_EzD7w9",
     "multi_column_pwBMH8",
     "featured_product_7qgzpg",
-    "tabs_YaAfHW"
+    "tabs_YaAfHW",
+    "faq_BMEfzk"
   ]
 }
