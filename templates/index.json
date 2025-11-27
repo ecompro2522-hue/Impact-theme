@@ -287,9 +287,11 @@
     "featured_product_7qgzpg": {
       "type": "featured-product",
       "blocks": {
-        "vendor_MnaCen": {
-          "type": "vendor",
-          "settings": {}
+        "liquid_LPyPr7": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display:inline-flex; align-items:center; gap:6px; font-family:'DM Sans', sans-serif; font-size:13px;\">\n  <div style=\"display:inline-flex; gap:2px; line-height:1;\">\n    <span style=\"font-size:18px;\">⭐</span>\n    <span style=\"font-size:18px;\">⭐</span>\n    <span style=\"font-size:18px;\">⭐</span>\n    <span style=\"font-size:18px;\">⭐</span>\n    <span style=\"font-size:18px;\">⭐</span>\n  </div>\n  <span style=\"line-height:1; margin-top:2px;\">\n    Excellent 4,8/5 (+ de 500 avis)\n  </span>\n</div>"
+          }
         },
         "title_zXzMyk": {
           "type": "title",
@@ -307,23 +309,15 @@
             "show_taxes_notice": false
           }
         },
-        "rating_8bz8dJ": {
-          "type": "rating",
+        "liquid_MfcEb4": {
+          "type": "liquid",
           "settings": {
-            "show_empty": false
+            "liquid": "{% comment %}\n  Badge de faible stock avec animation\n  À intégrer dans product.liquid ou section produit\n{% endcomment %}\n<style>\n  .low-stock-badge {\n    display: inline-flex;\n    align-items: center;\n    gap: 6px;\n    padding: 6px 12px;\n    background: rgba(220, 38, 38, 0.15);\n    border: 1.5px solid rgba(153, 27, 27, 0.8);\n    border-radius: 6px;\n    margin: 8px 0;\n    font-weight: 600;\n    color: #991b1b;\n    font-size: 12px;\n    backdrop-filter: blur(4px);\n  }\n  .stock-dot {\n    width: 6px;\n    height: 6px;\n    background: #991b1b;\n    border-radius: 50%;\n    animation: pulse-dot 1.5s ease-in-out infinite;\n  }\n  @keyframes pulse-dot {\n    0%, 100% {\n      opacity: 1;\n      transform: scale(1);\n    }\n    50% {\n      opacity: 0.5;\n      transform: scale(1.2);\n    }\n  }\n  .stock-text {\n    letter-spacing: 0.3px;\n  }\n</style>\n<div class=\"low-stock-badge\">\n  <span class=\"stock-dot\"></span>\n  <span class=\"stock-text\"> Derniers exemplaires disponibles\n</span>\n</div>"
           }
         },
         "separator_EptKmk": {
           "type": "separator",
           "settings": {}
-        },
-        "description_QCyyU8": {
-          "type": "description",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
-          }
         },
         "variant_picker_J6eNci": {
           "type": "variant_picker",
@@ -336,6 +330,12 @@
             "size_chart_page": ""
           }
         },
+        "liquid_jRJAmU": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Christmas Badge</title>\n<style>\n  body.unique-body-Nop123 {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    height: 100vh;\n    margin: 0;\n    background-color: #fff;\n  }\n\n  .unique-badge-container-Qrs456 {\n    display: flex;\n    align-items: center;\n    background-color: #e6ffe6; /* Açık yeşil arka plan */\n    border-radius: 42px;\n    padding: 8px 12px;\n    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n    font-size: 30px;\n    color: #5cb85c; /* Yeşil metin rengi */\n    margin: 10px 0; /* Aşağı ve yukarı boşluk ekler */\n    transition: transform 0.3s ease-in-out;\n  }\n\n  .unique-badge-container-Qrs456:hover {\n    transform: translateY(-5px);\n  }\n\n  .unique-badge-icon-Tuv789 {\n    width: 20px;\n    height: 30px;\n    margin-right: 10px;\n    font-size: 20px;\n  }\n</style>\n</head>\n<body class=\"unique-body-Nop123\">\n\n<div class=\"unique-badge-container-Qrs456\">\n  <span class=\"unique-badge-icon-Tuv789\">🎄</span>\n  <span>Offrez le cadeau idéal pour Noël ! Et reste au chaud tout l'hiver !</span>\n</div>\n\n</body>\n</html>"
+          }
+        },
         "quantity_selector_4DRWrD": {
           "type": "quantity_selector",
           "settings": {}
@@ -343,36 +343,31 @@
         "buy_buttons_zHEEX8": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
+            "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
+            "atc_button_background": "#f7d9b6",
+            "atc_button_text_color": "#1a1a1a",
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
-        },
-        "pickup_availability_BfDTU6": {
-          "type": "pickup_availability",
-          "settings": {}
         }
       },
       "block_order": [
-        "vendor_MnaCen",
+        "liquid_LPyPr7",
         "title_zXzMyk",
         "badges_tmJfkd",
         "price_qEKfkr",
-        "rating_8bz8dJ",
+        "liquid_MfcEb4",
         "separator_EptKmk",
-        "description_QCyyU8",
         "variant_picker_J6eNci",
+        "liquid_jRJAmU",
         "quantity_selector_4DRWrD",
-        "buy_buttons_zHEEX8",
-        "pickup_availability_BfDTU6"
+        "buy_buttons_zHEEX8"
       ],
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "",
+        "product": "womens-winter-knitted-balaclava-hood-hat-ear-protection-fluffy-mask-neck-integrated-warm-cover-cap",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
