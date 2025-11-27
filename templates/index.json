@@ -423,16 +423,24 @@
         "tab_xwTCzj": {
           "type": "tab",
           "settings": {
-            "title": "Tab 2",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Qualité garantie",
+            "content": "<p>Nous contrôlons chaque bonnet avant expédition.<br/>En cas de défaut (couture, pompon, doublure abîmée…), nous vous renvoyons un nouveau bonnet ou trouvons une solution rapide avec vous.</p>",
             "page": ""
           }
         },
         "tab_ejWRhd": {
           "type": "tab",
           "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "title": "Livraison gratuite",
+            "content": "<p>La livraison est <strong>offerte</strong><br/>Les délais sont rapides et suivis, voir les détails dans notre page <strong>Livraison & Retours</strong>.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "tab_KGiMVQ": {
+          "type": "tab",
+          "settings": {
+            "title": "Support client réactif 7j/7",
+            "content": "<p>Une question sur votre commande ou le jeu ? Notre équipe est là pour vous aider <strong>tous les jours</strong>.</p><ul><li><strong>Lundi au vendredi : 9h–12h / 14h–18h</strong><br/></li><li><strong>Samedi & dimanche : 10h–12h</strong><br/></li></ul><p>Vous pouvez nous contacter à tout moment, nous vous répondons dans un délai de <strong>24 à 48h ouvrées</strong>.</p>",
             "page": ""
           }
         }
@@ -440,14 +448,15 @@
       "block_order": [
         "tab_WW7pmB",
         "tab_xwTCzj",
-        "tab_ejWRhd"
+        "tab_ejWRhd",
+        "tab_KGiMVQ"
       ],
       "name": "Tabs",
       "settings": {
         "full_width": true,
         "content_size": "medium",
-        "subheading": "Subheading",
-        "title": "Heading",
+        "subheading": "",
+        "title": "",
         "text_alignment": "center",
         "first_tab_open": false,
         "background": "",
