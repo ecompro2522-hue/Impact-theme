@@ -100,12 +100,6 @@
     "rich_text_NakWVG": {
       "type": "rich-text",
       "blocks": {
-        "subheading_8ihNef": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_6bzLTU": {
           "type": "heading",
           "settings": {
@@ -114,18 +108,10 @@
             "text_color": "",
             "gradient": ""
           }
-        },
-        "richtext_BXPKiU": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
         }
       },
       "block_order": [
-        "subheading_8ihNef",
-        "heading_6bzLTU",
-        "richtext_BXPKiU"
+        "heading_6bzLTU"
       ],
       "name": "Rich text",
       "settings": {
@@ -139,43 +125,18 @@
     },
     "image_with_text_overlay_cgdA48": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_pChQpB": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_gLxxc6": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_d3kerV": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_pChQpB",
-        "heading_gLxxc6",
-        "richtext_d3kerV"
-      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/7_c4166eab-6e68-4589-b351-a0923afb7842.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "rich_text_CMMzPN": {
