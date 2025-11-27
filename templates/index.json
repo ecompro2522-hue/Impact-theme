@@ -408,6 +408,54 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "tabs_YaAfHW": {
+      "type": "tabs",
+      "blocks": {
+        "tab_WW7pmB": {
+          "type": "tab",
+          "settings": {
+            "title": "Caractéristiques",
+            "content": "<ul><li><strong>Chaleur intégrale</strong> : intérieur entièrement doublé de polaire façon fausse fourrure, doux et très isolant</li><li><strong>Idée cadeau</strong> : parfait pour Noël, anniversaires ou pour faire plaisir à un proche qui craint le froid<br/> acrylique & polyester</li><li><strong>Taille unique adulte</strong> : s’adapte confortablement à la plupart des tours de tête (env. 55 à 61 cm)</li><li><strong>2-en-1 monobloc</strong> : bonnet + cache-cou circulaire, solidaires, rien à ajuster ni à nouer</li><li><strong>Matière extérieure</strong> : maille acrylique de qualité, épaisse, coupe-vent et résistante</li><li><strong>Léger & confortable</strong> : tient bien en place sans comprimer</li><li><strong>Composition</strong> : acrylique & polyester</li><li><strong>Contenu du colis</strong> : 1 bonnet 2-en-1</li><li><strong>Couleurs</strong> : selon sélection</li></ul>",
+            "page": ""
+          }
+        },
+        "tab_xwTCzj": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 2",
+            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "tab_ejWRhd": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 3",
+            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_WW7pmB",
+        "tab_xwTCzj",
+        "tab_ejWRhd"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "Subheading",
+        "title": "Heading",
+        "text_alignment": "center",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -418,6 +466,7 @@
     "rich_text_CMMzPN",
     "video_EzD7w9",
     "multi_column_pwBMH8",
-    "featured_product_7qgzpg"
+    "featured_product_7qgzpg",
+    "tabs_YaAfHW"
   ]
 }
