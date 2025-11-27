@@ -108,8 +108,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "Nous contacter",
+            "content": "<p>Service client : contact@kskfit.fr</p>",
             "enable_follow_on_shop": true
           }
         }
