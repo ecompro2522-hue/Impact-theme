@@ -284,6 +284,22 @@
         "text_color": ""
       }
     },
+    "scrolling_text_crEczr": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "🎁 Offres packs jusqu’à -60 %",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#f7d9b6",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "featured_product_7qgzpg": {
       "type": "featured-product",
       "blocks": {
@@ -605,6 +621,7 @@
     "rich_text_CMMzPN",
     "video_EzD7w9",
     "multi_column_pwBMH8",
+    "scrolling_text_crEczr",
     "featured_product_7qgzpg",
     "tabs_YaAfHW",
     "faq_BMEfzk",
