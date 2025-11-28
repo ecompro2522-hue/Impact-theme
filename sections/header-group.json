@@ -14,27 +14,43 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_9wFYFP": {
+          "type": "message",
+          "settings": {
+            "text": "🚚 Livraison gratuite partout en Europe",
+            "url": ""
+          }
+        },
+        "message_bE6dwR": {
+          "type": "message",
+          "settings": {
+            "text": "✅ Paiement 100% sécurisé",
+            "url": ""
+          }
+        },
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "⏳ Offre limitée – stocks réduits",
             "url": ""
           }
         }
       },
       "block_order": [
+        "message_9wFYFP",
+        "message_bE6dwR",
         "message"
       ],
       "settings": {
         "enable_sticky": false,
         "autoplay": false,
         "cycle_speed": 6,
-        "text_size": "text-xs",
+        "text_size": "text-base",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#1a1a1a",
+        "background": "#ffbb1b",
         "background_gradient": "",
-        "text_color": "#ffffff"
+        "text_color": "#1a1a1a"
       }
     },
     "header": {
