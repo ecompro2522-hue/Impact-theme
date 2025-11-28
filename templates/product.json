@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "liquid_C8iy8a": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display:inline-flex; align-items:center; gap:6px; font-family:'DM Sans', sans-serif; font-size:13px;\">\n  <div style=\"display:inline-flex; gap:2px; line-height:1;\">\n    <span style=\"font-size:18px;\">⭐</span>\n    <span style=\"font-size:18px;\">⭐</span>\n    <span style=\"font-size:18px;\">⭐</span>\n    <span style=\"font-size:18px;\">⭐</span>\n    <span style=\"font-size:18px;\">⭐</span>\n  </div>\n  <span style=\"line-height:1; margin-top:2px;\">\n    Excellent 4,8/5 (+ de 500 avis)\n  </span>\n</div>"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -22,6 +28,12 @@
           "type": "price",
           "settings": {
             "show_taxes_notice": false
+          }
+        },
+        "liquid_6nV9wG": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "{% comment %}\n  Badge de faible stock avec animation\n  À intégrer dans product.liquid ou section produit\n{% endcomment %}\n<style>\n  .low-stock-badge {\n    display: inline-flex;\n    align-items: center;\n    gap: 6px;\n    padding: 6px 12px;\n    background: rgba(220, 38, 38, 0.15);\n    border: 1.5px solid rgba(153, 27, 27, 0.8);\n    border-radius: 6px;\n    margin: 8px 0;\n    font-weight: 600;\n    color: #991b1b;\n    font-size: 12px;\n    backdrop-filter: blur(4px);\n  }\n  .stock-dot {\n    width: 6px;\n    height: 6px;\n    background: #991b1b;\n    border-radius: 50%;\n    animation: pulse-dot 1.5s ease-in-out infinite;\n  }\n  @keyframes pulse-dot {\n    0%, 100% {\n      opacity: 1;\n      transform: scale(1);\n    }\n    50% {\n      opacity: 0.5;\n      transform: scale(1.2);\n    }\n  }\n  .stock-text {\n    letter-spacing: 0.3px;\n  }\n</style>\n<div class=\"low-stock-badge\">\n  <span class=\"stock-dot\"></span>\n  <span class=\"stock-text\"> Derniers exemplaires disponibles\n</span>\n</div>"
           }
         },
         "separator": {
@@ -39,6 +51,14 @@
             "size_chart_page": ""
           }
         },
+        "image_qpBKTW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/22.png",
+            "alignment": "center",
+            "max_width": 400
+          }
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {}
@@ -48,10 +68,24 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
+            "atc_button_background": "#ffbb1b",
+            "atc_button_text_color": "#000000",
             "payment_button_background": "",
             "payment_button_text_color": ""
+          }
+        },
+        "liquid_6Gmh3q": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Payment Options</title>\n    <style>\n        body.unique-body-Pay123 {\n            font-family: Arial, sans-serif;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            height: 100vh;\n            margin: 0;\n            background-color: #f9f9f9;\n        }\n        .unique-payment-container-Xyz456 {\n            text-align: center;\n        }\n        .unique-payment-options-Abc789 {\n            display: flex;\n            justify-content: center;\n            gap: 10px;\n        }\n        .unique-payment-options-Abc789 img {\n            width: 50px;\n            height: auto;\n        }\n    </style>\n</head>\n<body class=\"unique-body-Pay123\">\n    <div class=\"unique-payment-container-Xyz456\">\n        <div class=\"unique-payment-options-Abc789\">\n            <img src=\"https://www.svgrepo.com/show/14823/amex.svg\" alt=\"AMEX\">\n            <img src=\"https://www.svgrepo.com/show/508402/apple-pay.svg\" alt=\"Apple Pay\">\n            <img src=\"https://www.svgrepo.com/show/508703/mastercard.svg\" alt=\"MasterCard\">\n            <img src=\"https://www.svgrepo.com/show/508716/paypal.svg\" alt=\"PayPal\">\n            <img src=\"https://www.svgrepo.com/show/508690/google-pay.svg\" alt=\"Google Pay\">\n            <img src=\"https://www.svgrepo.com/show/508730/visa-classic.svg\" alt=\"VISA\">\n        </div>\n    </div>\n</body>\n</html>"
+          }
+        },
+        "image_hWbwnV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/23.png",
+            "alignment": "center",
+            "max_width": 400
           }
         },
         "description": {
@@ -64,12 +98,17 @@
         }
       },
       "block_order": [
+        "liquid_C8iy8a",
         "title",
         "price",
+        "liquid_6nV9wG",
         "separator",
         "variant_picker",
+        "image_qpBKTW",
         "quantity_selector",
         "buy_buttons",
+        "liquid_6Gmh3q",
+        "image_hWbwnV",
         "description"
       ],
       "settings": {
