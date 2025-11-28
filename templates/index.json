@@ -216,7 +216,7 @@
             "column_size": "3",
             "title": "Antho C.",
             "heading_tag": "h4",
-            "content": "<p>J’aimais pas les écharpes qui traînent et qui s’emmêlent. Là tout tient en place, ça ne bouge pas même quand je marche vite ou que je cours</p>",
+            "content": "<p>J’aimais pas les écharpes qui traînent et qui s’emmêlent. Là tout tient en place, ça ne bouge pas même quand je marche vite.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -242,7 +242,7 @@
             "column_size": "3",
             "title": "Thomas A.",
             "heading_tag": "h4",
-            "content": "<p>On a commencé par en acheter un pour tester, et on a fini par en prendre pour tout le monde. Les enfants adorent et surtout, ils n’ont plus froid au cou</p>",
+            "content": "<p>On a commencé par en acheter un pour tester, et on a fini par en prendre pour tout le monde. Ont a plus froid au cou !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -354,7 +354,7 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#ffbb1b",
+            "atc_button_background": "#f7d9b6",
             "atc_button_text_color": "#1a1a1a",
             "payment_button_background": "",
             "payment_button_text_color": ""
