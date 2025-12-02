@@ -447,7 +447,7 @@
           "type": "tab",
           "settings": {
             "title": "Livraison gratuite",
-            "content": "<p>La livraison est <strong>offerte</strong><br/>Les délais sont rapides et suivis, voir les détails dans notre page <strong>Livraison & Retours</strong>.<br/><br/></p>",
+            "content": "<p>La livraison est <strong>offerte</strong><br/>Les délais sont rapides et suivis, voir les détails dans notre page <strong>Livraison & Retours</strong>.</p>",
             "page": ""
           }
         },
