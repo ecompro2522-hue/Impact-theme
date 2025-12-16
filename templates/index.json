@@ -480,64 +480,64 @@
         "item_8UabjU": {
           "type": "item",
           "settings": {
-            "title": "Le bonnet tient-il vraiment chaud ?",
-            "content": "<p>Oui, l’intérieur est entièrement doublé en polaire douce façon “fausse fourrure”. Il couvre la tête, les oreilles, le cou et une partie du visage, ce qui le rend idéal par temps froid, vent et gel.</p>"
+            "title": "Est-ce qu’il est vraiment invisible sous les vêtements ?",
+            "content": "<p>Oui. Sa matière lisse et ses finitions discrètes sont pensées pour éviter les marques sous les t-shirts, pulls et robes.</p>"
           }
         },
         "item_YkPcLL": {
           "type": "item",
           "settings": {
-            "title": "Est-ce qu’il gratte ?",
-            "content": "<p>Non. L’extérieur est en maille tricotée, mais la partie en contact avec la peau est en polaire très douce. Il est conçu pour être porté longtemps sans gêne.</p>"
+            "title": "Est-ce qu’il y a des armatures ?",
+            "content": "<p>Non. Il est <strong>sans armatures</strong> pour un confort maximal, tout en gardant un <strong>maintien naturel</strong>.</p>"
           }
         },
         "item_HFwDLx": {
           "type": "item",
           "settings": {
-            "title": "Taille unique… ça va m’aller ?",
-            "content": "<p>Le bonnet est <strong>taille unique adulte</strong> et s’adapte à la plupart des tours de tête (environ 55 à 61 cm). La matière est légèrement extensible et épouse bien la forme de la tête.</p>"
+            "title": "Est-ce qu’il maintient bien la poitrine ?",
+            "content": "<p>Oui, il offre un maintien confortable au quotidien. Idéal pour un rendu naturel et une silhouette harmonieuse.</p>"
           }
         },
         "item_fnFLfe": {
           "type": "item",
           "settings": {
-            "title": "Convient-il aux hommes et aux femmes ?",
-            "content": "<p>Oui, c’est un modèle <strong>unisexe</strong>. Le style est neutre et les différentes couleurs permettent de s’adapter à tous les goûts.</p>"
+            "title": "Est-ce qu’il convient aux poitrines généreuses ?",
+            "content": "<p>Il convient à beaucoup de morphologies grâce à sa coupe et ses bretelles réglables. Si tu hésites entre deux tailles, prends celle au-dessus pour plus de confort.</p>"
           }
         },
         "item_9MTirp": {
           "type": "item",
           "settings": {
-            "title": "Peut-on séparer le bonnet du cache-cou ?",
-            "content": "<p>Non. C’est un <strong>modèle monobloc</strong> : le bonnet et le cache-cou sont solidaires. C’est ce qui permet de le mettre en place en quelques secondes et qu’il reste bien en position.</p>"
+            "title": "Comment choisir ma taille ?",
+            "content": "<p>Réfère-toi au guide des tailles sur la page produit (tour sous poitrine + tour de poitrine). En cas d’hésitation, prends la taille la plus grande.</p>"
           }
         },
         "item_gReKt8": {
           "type": "item",
           "settings": {
-            "title": "Comment l’entretenir et le laver ?",
-            "content": "<p>Lavage recommandé à <strong>30°C maximum</strong>, à la main ou en machine dans un filet de lavage, cycle délicat. Éviter le sèche-linge pour préserver la forme et la douceur de la polaire.</p>"
+            "title": "Est-ce que les bretelles sont réglables ?",
+            "content": "<p>Oui, les bretelles sont réglables pour s’adapter parfaitement à ta morphologie et éviter qu’elles ne glissent.</p>"
           }
         },
         "item_TTLVXE": {
           "type": "item",
           "settings": {
-            "title": "Et si le bonnet ne me convient pas ?",
-            "content": "<p>En cas de souci avec votre commande (défaut, article abîmé à la réception), il suffit de nous contacter par e-mail. Nous trouvons toujours une solution : remplacement, avoir ou geste commercial selon la situation.</p>"
+            "title": "Est-ce qu’il est confortable pour une journée entière ?",
+            "content": "<p>Oui. Il est conçu pour être porté longtemps : pas de pression, pas de gêne, sensation “seconde peau”.</p>"
           }
         },
         "item_hwc9K7": {
           "type": "item",
           "settings": {
-            "title": "Quels sont les délais de livraison ?",
-            "content": "<p>La livraison est généralement comprise entre <strong>7 et 14 jours ouvrés</strong> selon le pays en Europe. Vous recevez un e-mail avec votre <strong>numéro de suivi</strong> dès que votre commande est expédiée.</p>"
+            "title": "Peut-on le porter sous une tenue moulante ?",
+            "content": "<p>Oui, c’est justement son gros point fort : rendu lisse, discret et net sous les vêtements ajustés.</p>"
           }
         },
         "item_pLeVTi": {
           "type": "item",
           "settings": {
-            "title": "Comment savoir où en est ma commande ?",
-            "content": "<p>Dès l’expédition, vous recevez un numéro de <strong>suivi</strong>. Vous pouvez y suivre votre colis sur notre site.</p>"
+            "title": "Comment l’entretenir (lavage) ?",
+            "content": "<p>Lavage à la machine à froid dans un filet, cycle délicat. Séchage à l’air libre (évite le sèche-linge).</p>"
           }
         },
         "item_mFzzh3": {
