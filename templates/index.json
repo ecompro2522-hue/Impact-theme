@@ -15,7 +15,7 @@
         "heading_UXMg7r": {
           "type": "heading",
           "settings": {
-            "text": "Un seul bonnet, tête et cou bien au chaud",
+            "text": "Soutien-gorge invisible, confort seconde peau",
             "heading_tag": "h1"
           }
         }
@@ -29,13 +29,13 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/image_site.png",
-        "mobile_image": "shopify://shop_images/image_site_2.png",
-        "mobile_text_position": "place-self-start-center text-center",
-        "desktop_text_position": "sm:place-self-end-center sm:text-center",
-        "text_color": "#ffffff",
+        "image": "shopify://shop_images/banniere_2.png",
+        "mobile_image": "shopify://shop_images/Banniere_tel.png",
+        "mobile_text_position": "place-self-end-center text-center",
+        "desktop_text_position": "sm:place-self-center-start sm:text-start",
+        "text_color": "#1a1a1a",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "logo_list_EQWGTL": {
@@ -44,7 +44,7 @@
         "logo_4tV4kw": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/18_970df29b-99f5-4c15-a253-75d8a253f81c.png",
+            "logo": "shopify://shop_images/18.png",
             "logo_width": 120,
             "link": ""
           }
@@ -103,8 +103,8 @@
         "heading_6bzLTU": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir le Bonnet KSK Fit ?",
-            "heading_tag": "h1",
+            "text": "Pourquoi choisir le Soutien-Gorge ?",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -131,7 +131,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/7_f777066a-76de-4ee9-8283-b54cdb414e8a.png",
+        "image": "shopify://shop_images/benef.png",
+        "mobile_image": "shopify://shop_images/benef.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -173,7 +174,6 @@
         "allow_transparent_header": false,
         "autoplay": true,
         "video_size": "auto",
-        "video": "shopify://files/videos/vidéo site_da903085-904f-4ece-b352-4301f9fdc84d.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
@@ -186,7 +186,6 @@
         "item_xmQ3Lg": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis_7.png",
             "column_size": "3",
             "title": "Sophie F.",
             "heading_tag": "h4",
@@ -199,7 +198,6 @@
         "item_Ttifpe": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis_11.png",
             "column_size": "3",
             "title": "Julien G.",
             "heading_tag": "h4",
@@ -212,7 +210,6 @@
         "item_qVeNx4": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis_10.png",
             "column_size": "3",
             "title": "Antho C.",
             "heading_tag": "h4",
@@ -225,7 +222,6 @@
         "item_GkFtM3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis_9.png",
             "column_size": "3",
             "title": "Camille M.",
             "heading_tag": "h4",
@@ -238,7 +234,6 @@
         "item_qKQtjD": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis_8.png",
             "column_size": "3",
             "title": "Thomas A.",
             "heading_tag": "h4",
@@ -251,7 +246,6 @@
         "item_DVJUFF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis_12.png",
             "column_size": "3",
             "title": "Estelle O.",
             "heading_tag": "h4",
@@ -355,7 +349,6 @@
         "image_3TYG3r": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/22.png",
             "alignment": "center",
             "max_width": 400
           }
@@ -384,7 +377,6 @@
         "image_HygAJN": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/24.png",
             "alignment": "center",
             "max_width": 400
           }
