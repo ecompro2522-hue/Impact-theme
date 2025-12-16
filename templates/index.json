@@ -188,10 +188,11 @@
         "item_xmQ3Lg": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis_1.png",
             "column_size": "3",
             "title": "Sophie F.",
             "heading_tag": "h4",
-            "content": "<p>Depuis que je l’ai, j’ai enfin la tête et le cou au chaud le matin. Je gagne du temps, j’enfile juste ce bonnet et c’est réglé</p>",
+            "content": "<p><strong>Incroyable… on dirait que je ne porte rien. Zéro gêne, zéro marque</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -200,10 +201,11 @@
         "item_Ttifpe": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis_2.png",
             "column_size": "3",
             "title": "Julie G.",
             "heading_tag": "h4",
-            "content": "<p>Je travaille dehors toute la journée, et ce bonnet me permet de garder la nuque et les oreilles bien protégées. Je l’utilise tous les jours maintenant</p>",
+            "content": "<p><strong>Enfin un soutien-gorge vraiment invisible sous les t-shirts moulants. Je valide à 100%</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -212,10 +214,11 @@
         "item_qVeNx4": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis_4_7c3a4dba-801b-467d-8b1f-b8af3d8bf6e2.png",
             "column_size": "3",
             "title": "Sarah C.",
             "heading_tag": "h4",
-            "content": "<p>J’aimais pas les écharpes qui traînent et qui s’emmêlent. Là tout tient en place, ça ne bouge pas même quand je marche vite ou que je cours</p>",
+            "content": "<p><strong>Le confort est dingue. Je l’ai gardé toute la journée sans y penser une seule fois</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -224,10 +227,11 @@
         "item_GkFtM3": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis_3_0c7c65ea-1b2b-462c-a1b4-a62457ff768c.png",
             "column_size": "3",
             "title": "Camille M.",
             "heading_tag": "h4",
-            "content": "<p>Je suis très frileuse et je sens tout de suite la chaleur du tissu polaire. Même quand il y a du vent, je n’ai plus le visage glacé.</p>",
+            "content": "<p><strong>Maintien naturel, sans armatures qui piquent. J’en ai commandé un 2e direct</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -236,10 +240,11 @@
         "item_qKQtjD": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis_5.png",
             "column_size": "3",
             "title": "Emma A.",
             "heading_tag": "h4",
-            "content": "<p>On a commencé par en acheter un pour tester, et on a fini par en prendre pour tout le monde. Les enfants adorent et surtout, ils n’ont plus froid au cou</p>",
+            "content": "<p><strong>Le décolleté est super flatteur et le rendu est hyper lisse sous les vêtements</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -248,10 +253,11 @@
         "item_DVJUFF": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis_6.png",
             "column_size": "3",
             "title": "Estelle O.",
             "heading_tag": "h4",
-            "content": "<p>Je prends les transports tous les matins et j’avais toujours froid au visage. Avec ce bonnet 2-en-1, j’ai enfin la tête et le cou bien protégés, même quand il fait vraiment froid</p>",
+            "content": "<p><strong>Les bretelles tiennent bien, ça ne glisse pas. Et surtout : aucune démarcation</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
