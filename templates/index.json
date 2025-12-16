@@ -340,12 +340,6 @@
             "size_chart_page": ""
           }
         },
-        "liquid_jRJAmU": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Christmas Badge</title>\n<style>\n  body.unique-body-Nop123 {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    height: 100vh;\n    margin: 0;\n    background-color: #fff;\n  }\n\n  .unique-badge-container-Qrs456 {\n    display: flex;\n    align-items: center;\n    background-color: #e6ffe6; /* Açık yeşil arka plan */\n    border-radius: 42px;\n    padding: 8px 12px;\n    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n    font-size: 30px;\n    color: #5cb85c; /* Yeşil metin rengi */\n    margin: 10px 0; /* Aşağı ve yukarı boşluk ekler */\n    transition: transform 0.3s ease-in-out;\n  }\n\n  .unique-badge-container-Qrs456:hover {\n    transform: translateY(-5px);\n  }\n\n  .unique-badge-icon-Tuv789 {\n    width: 20px;\n    height: 30px;\n    margin-right: 10px;\n    font-size: 20px;\n  }\n</style>\n</head>\n<body class=\"unique-body-Nop123\">\n\n<div class=\"unique-badge-container-Qrs456\">\n  <span class=\"unique-badge-icon-Tuv789\">🎄</span>\n  <span>Offrez le cadeau idéal pour Noël ! Et reste au chaud tout l'hiver !</span>\n</div>\n\n</body>\n</html>"
-          }
-        },
         "image_3TYG3r": {
           "type": "image",
           "settings": {
@@ -390,7 +384,6 @@
         "liquid_MfcEb4",
         "separator_EptKmk",
         "variant_picker_J6eNci",
-        "liquid_jRJAmU",
         "image_3TYG3r",
         "quantity_selector_4DRWrD",
         "buy_buttons_zHEEX8",
