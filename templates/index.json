@@ -291,7 +291,7 @@
       "name": "Scrolling text",
       "settings": {
         "full_width": true,
-        "text": "🎁 Offres packs jusqu’à -60 %",
+        "text": "🎁 Offres packs jusqu’à -50 %",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
