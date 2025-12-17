@@ -305,6 +305,12 @@
     "featured_product_7qgzpg": {
       "type": "featured-product",
       "blocks": {
+        "liquid_bzDEby": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "liquid_LPyPr7": {
           "type": "liquid",
           "settings": {
@@ -385,6 +391,7 @@
         }
       },
       "block_order": [
+        "liquid_bzDEby",
         "liquid_LPyPr7",
         "title_zXzMyk",
         "badges_tmJfkd",
